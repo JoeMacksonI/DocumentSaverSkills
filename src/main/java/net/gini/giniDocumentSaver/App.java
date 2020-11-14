@@ -1,4 +1,4 @@
-package net.gini.giniDocumentSaver;
+package net.gini.ginidocumentsaver;
 
 /**
  * Hello world!
